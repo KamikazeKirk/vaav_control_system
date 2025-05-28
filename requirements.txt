@@ -1,0 +1,7 @@
+kivy
+dante-python
+numpy
+scipy
+python-osc
+requests
+mido
